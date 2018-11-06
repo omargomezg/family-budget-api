@@ -1,6 +1,10 @@
 # Compiled class file
 *.class
+<<<<<<< HEAD
 .idea/
+=======
+
+>>>>>>> 9e1efed8b97d121bdcc785311bf6baa4c0c98927
 # Log file
 *.log
 
